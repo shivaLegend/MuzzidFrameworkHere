@@ -1,0 +1,6 @@
+framework module Pods_MuzzidFrameworkHere {
+  umbrella header "Pods-MuzzidFrameworkHere-umbrella.h"
+
+  export *
+  module * { export * }
+}

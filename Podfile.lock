@@ -1,0 +1,26 @@
+PODS:
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - TensorFlowLiteC (2.1.0)
+  - TensorFlowLiteSwift (2.1.0):
+    - TensorFlowLiteC (= 2.1.0)
+
+DEPENDENCIES:
+  - NVActivityIndicatorView
+  - TensorFlowLiteSwift
+
+SPEC REPOS:
+  trunk:
+    - NVActivityIndicatorView
+    - TensorFlowLiteC
+    - TensorFlowLiteSwift
+
+SPEC CHECKSUMS:
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  TensorFlowLiteC: 215603d4426d93810eace5947e317389554a4b66
+  TensorFlowLiteSwift: 9d8137f18d5ac30ca89bba4fbe118e0949ac5743
+
+PODFILE CHECKSUM: 337666c459543b533569968578865989d54384e0
+
+COCOAPODS: 1.9.0.beta.2
